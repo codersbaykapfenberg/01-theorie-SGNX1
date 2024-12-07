@@ -8,7 +8,7 @@ public class VariableExercise {
      */
     public static void VariableMethod() {
 
-        int x = 5;
+        int x = 4;
         long h = 140;
         float y = 10.42f;
         double n = 1234.5112f;
